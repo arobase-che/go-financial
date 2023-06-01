@@ -5,11 +5,9 @@ import (
 
 	"github.com/shopspring/decimal"
 
-	"github.com/razorpay/go-financial/enums/paymentperiod"
-
-	"github.com/razorpay/go-financial/enums/interesttype"
-
-	"github.com/razorpay/go-financial/enums/frequency"
+	"github.com/arobase-che/go-financial/enums/frequency"
+	"github.com/arobase-che/go-financial/enums/interesttype"
+	"github.com/arobase-che/go-financial/enums/paymentperiod"
 )
 
 // Config is used to store details used in generation of amortization table.

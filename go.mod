@@ -1,4 +1,4 @@
-module github.com/razorpay/go-financial
+module github.com/arobase-che/go-financial
 
 go 1.15
 
